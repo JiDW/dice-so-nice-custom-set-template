@@ -14,7 +14,13 @@
 		}
 	],
 	"esmodules": [
-		"./diceset.js"
+		"./scripts/diceset.js"
+	],
+	"dependencies": [
+		{
+			"type": "module",
+			"name": "dice-so-nice"
+		}
 	],
 	"url": "",
 	"manifest": "",
